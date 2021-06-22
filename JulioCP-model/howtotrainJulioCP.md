@@ -11,7 +11,7 @@ The aims of this solution are (*w.r.t Old Model*):
 - Improve the efficiency in the model replacing the Neural Network architecture.
 - Fix several issues in the tokenization.
 
-## Stages propused (training)
+## Stages proposed (training)
 
 It is going to be mentioned each stage of the solution proposed in its corresponding execution order.
 
